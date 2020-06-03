@@ -42,8 +42,6 @@ export haproxy_status_port="8000"
 ./install.sh
 ```
 
-![image](https://raw.githubusercontent.com/zdwork/k8s-install/master/img/install-master.png)
-
 **脚本执行完后会打打印出如下信息：**
 
 ```
@@ -125,7 +123,6 @@ export flaneld_interface="eth0"
 ```
 ./install.sh
 ```
-![image](https://raw.githubusercontent.com/zdwork/k8s-install/master/img/install-node.png)
 
 **脚本执行完后会打打印出如下信息：**
 
